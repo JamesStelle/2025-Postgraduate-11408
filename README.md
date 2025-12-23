@@ -1,4 +1,9 @@
 # 2025-Postgraduate-11408
+![DataStructure](https://img.shields.io/static/v1?label=&message=DataStructure&color=brightgreen)
+![ComputerOrganization](https://img.shields.io/static/v1?label=&message=ComputerOrganization&color=blueviolet)
+![ComputerNetWork](https://img.shields.io/static/v1?label=&message=ComputerNetWork&color=blue)
+![OperatingSystem](https://img.shields.io/static/v1?label=&message=OperatingSystem&color=important)
+
 2025考研二战备考经历 | 考试科目 11408 | 报考专业 081200<br>
 聊聊我的考研备考故事，以及408计算机专业课程的复习技巧和资料推荐<br>
 <br>
